@@ -1,0 +1,5 @@
+K-nearest neighbors
+
+nearest neighbors >> classification based on nearest position from datasets, it can be 2D, 3D or even 10D 
+K-nearest neighbors >> K is number of dataset elements which is nearest from the prediction position
+for K-NN is best uses odd number to prevent even split votes
