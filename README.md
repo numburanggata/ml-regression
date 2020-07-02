@@ -1,3 +1,3 @@
 # ml-regression
-learned from sentdex
+learned from sentdex,
 written in boa constrictor
